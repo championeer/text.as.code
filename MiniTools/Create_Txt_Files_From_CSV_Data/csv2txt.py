@@ -1,5 +1,5 @@
 """
-作者：XYU
+作者：XYU with Cursor and Claude
 版本：1.0
 
 说明：
